@@ -23,7 +23,7 @@ What truly excites me is getting hands-on with new technologies that offer a gli
 
 ---
 
-### 💻 Tech Stack & Tools
+### Tech Stack & Tools
 
 | Category | Technologies |
 | :--- | :--- |
@@ -34,7 +34,7 @@ What truly excites me is getting hands-on with new technologies that offer a gli
 
 ---
 
-### 🔭 Featured Projects
+### Featured Projects
 
 - **[Real-Time Fraud Detection System](https://github.com/TejasweeSulekh/Fraud-Detection-System)**
   Architected and deployed a scalable pipeline capable of detecting fraudulent activity in real-time data streams.
@@ -54,7 +54,7 @@ What truly excites me is getting hands-on with new technologies that offer a gli
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tejasweesulekh&show_icons=true&theme=dracula&count_private=true&hide_border=true&bg_color=0D1117" alt="Tejaswee's GitHub Stats" />
