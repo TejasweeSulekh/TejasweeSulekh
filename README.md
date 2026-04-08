@@ -57,6 +57,6 @@ What truly excites me is getting hands-on with new technologies that offer a gli
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejasweesulekh&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="Tejaswee's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasweesulekh&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="Top Languages" />
+  <img src="./profile/stats.svg" alt="Tejaswee's GitHub Stats" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </div>
