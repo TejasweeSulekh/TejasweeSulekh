@@ -37,7 +37,7 @@ I am passionate about building fast, system-aware software. If a challenge invol
   Architected and deployed a scalable pipeline capable of detecting fraudulent activity in real-time data streams.
   *(Technologies: Python, Kafka, Docker, FastAPI, MLflow, Streamlit)*
 
-- **[Edge-Deployable AI Agent](#)**
+- **[Edge-Deployable AI Agent](https://github.com/TejasweeSulekh/Odysseus-Agent)**
   In the process of building a locally hosted AI assistant utilizing modern software principles to ensure user privacy, low latency, and efficient resource usage.
   *(Technologies: Ollama, FastAPI, Streamlit)*
 
